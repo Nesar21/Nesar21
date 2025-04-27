@@ -1,10 +1,17 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nesara Amingad</h1>
 
-<!-- Contact & Links -->
-- 📫 How to reach me **nesaramingad821@gmail.com**  
-- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1srdjkG4VIoVyDyTVdFK7sUy_dIbTmmOB/view?usp=drive_link)  
-- ⚡ Quote **“I am the master of my fate, I am the captain of my soul.”**
+<!-- Contact & Links Section -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <p>📫 How to reach me <strong>nesaramingad821@gmail.com</strong></p>
+    <p>📄 Know about my experiences <a href="https://drive.google.com/file/d/1srdjkG4VIoVyDyTVdFK7sUy_dIbTmmOB/view?usp=drive_link" target="_blank">Google Drive Link</a></p>
+    <p>⚡ Quote <em>“I am the master of my fate, I am the captain of my soul.”</em></p>
+  </div>
+
+  <!-- Image on the right side -->
+  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles%20morales%20gif.gif" alt="Spider-Man Logo" width="200"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,7 +89,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21" alt="Streak" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morles gif.gif" alt="Spider-Man Logo" width="200"/>
-</p>
