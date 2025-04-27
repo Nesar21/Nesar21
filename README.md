@@ -1,9 +1,6 @@
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nesara Amingad</h1>
-<h3 align="center">
-  Hi, I’m Nesara Amingad, a passionate Full-Stack Developer with a B.E. in Computer Science and Engineering from JSSSTU. My focus is on creating innovative, scalable web applications using JavaScript, React.js, Node.js, and PostgreSQL. I’m always exploring new technologies like blockchain and Web3—feel free to explore my repositories and connect!
-</h3>
 
 <!-- Contact & Links -->
 - 📫 How to reach me **nesaramingad821@gmail.com**  
