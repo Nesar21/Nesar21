@@ -4,12 +4,12 @@
 <!-- Contact & Links -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p>- 📫 How to reach me **nesaramingad821@gmail.com**</p>
+    <p>- 📫 How to reach me nesaramingad821@gmail.com</p>
     <p>- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1srdjkG4VIoVyDyTVdFK7sUy_dIbTmmOB/view?usp=drive_link)</p>
-    <p>- ⚡ Quote **“I am the master of my fate, I am the captain of my soul.”**</p>
+    <p>- ⚡ Quote <strong>“I am the master of my fate, I am the captain of my soul.”</strong></p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles%20morales%20gif.gif" alt="Spider-Man Logo" width="200" />
+    <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morales gif.gif" alt="Spider-Man Logo" width="200" />
   </div>
 </div>
 
