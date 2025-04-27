@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morales.gif" alt="Spider-Man Logo" width="400"/>
-</p>
-
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nesara Amingad</h1>
@@ -85,4 +81,11 @@
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21" alt="Streak" />
+</p>
+
+
+### Animated GIF (Spider-Man Logo):
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morales.gif" alt="Spider-Man Logo" width="400"/>
 </p>
