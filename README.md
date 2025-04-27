@@ -77,7 +77,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="Stats" width="45%" />
 </p>
 
