@@ -7,7 +7,7 @@
 - ⚡ Quote **“I am the master of my fate, I am the captain of my soul.”**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morles gif.gif" alt="Spider-Man Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morles gif.gif" alt="Spider-Man Logo" width="200"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
