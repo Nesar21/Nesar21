@@ -3,42 +3,27 @@
   <img
     src="https://media.tenor.com/WDNllJL2IOsAAAAC/across-the-spider-verse-spider-man.gif"
     alt="Spider-Man Across The Spider-Verse"
-    width="150"
-  />
+    width="150" />
 </p>
 
-<!-- Loader Animation (note: GitHub strips <style> so this won’t display in a README) -->
+<!-- Loader Animation CSS (note: GitHub strips <style> tags, so this won’t display) -->
 <style>
-  .loader {
-    width: 60px;
-    aspect-ratio: .5;
-    display: grid;
-  }
+  .loader { width:60px; aspect-ratio:.5; display:grid }
   .loader:before {
-    content: "";
-    width: 30%;
-    aspect-ratio: 1;
-    border-radius: 50%;
-    margin: auto auto 0;
-    background: #CF4647;
-    animation: l9-0 .5s cubic-bezier(0,800,1,800) infinite;
+    content:""; width:30%; aspect-ratio:1; border-radius:50%;
+    margin:auto auto 0; background:#CF4647;
+    animation:l9-0 .5s cubic-bezier(0,800,1,800) infinite;
   }
   .loader:after {
-    content: "";
-    width: 100%;
-    aspect-ratio: 1/cos(30deg);
-    margin: 0 auto auto;
-    clip-path: polygon(50% -50%,100% 50%,50% 150%,0 50%);
-    background: #524656;
-    animation: l9-1 .5s linear infinite;
+    content:""; width:100%; aspect-ratio:1/cos(30deg);
+    margin:0 auto auto; clip-path:polygon(50% -50%,100% 50%,50% 150%,0 50%);
+    background:#524656; animation:l9-1 .5s linear infinite;
   }
   @keyframes l9-0 {
-    0%,2%   { transform: translate(0,   0%); }
-    98%,to { transform: translate(0, -0.2%); }
+    0%,2% {transform:translate(0,0)} 98%,to {transform:translate(0,-0.2%)}
   }
   @keyframes l9-1 {
-    0%,5%   { transform: rotate(  0deg); }
-    95%,to  { transform: rotate(-60deg); }
+    0%,5% {transform:rotate(0deg)} 95%,to {transform:rotate(-60deg)}
   }
 </style>
 <div class="loader"></div>
@@ -81,9 +66,6 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -122,7 +104,7 @@
   </a>
 </p>
 
-<!-- GitHub Stats (these are pure <img> embeds and will show) -->
+<!-- GitHub Stats -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
