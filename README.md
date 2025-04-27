@@ -77,10 +77,10 @@
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="Stats" width="49%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="Stats" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21" alt="Streak" />
