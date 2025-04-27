@@ -10,7 +10,7 @@
   </div>
 
   <!-- Image on the right side -->
-  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles%20morales%20gif.gif" alt="Spider-Man Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morales gif.gif" alt="Spider-Man Logo" width="200"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
