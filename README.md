@@ -1,18 +1,67 @@
+<!-- Tenor GIF Embed -->
+<div class="tenor-gif-embed" data-postid="27246203" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+  <a href="https://tenor.com/view/spider-man-logo-spider-man-across-the-spider-verse-spider-symbol-different-spiders-spider-man-gif-27246203">
+    Spider Man Logo Spider Man Across The Spider Verse GIF
+  </a> from <a href="https://tenor.com/search/spider+man+logo-gifs">Spider Man Logo GIFs</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<!-- Loader Animation CSS -->
+<style>
+  /* HTML: <div class="loader"></div> */
+  .loader {
+    width: 60px;
+    aspect-ratio: .5;
+    display: grid;
+  }
+  .loader:before {
+    content: "";
+    width: 30%;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    margin: auto auto 0;
+    background: #CF4647;
+    animation: l9-0 .5s cubic-bezier(0,800,1,800) infinite;
+  }
+  .loader:after {
+    content: "";
+    width: 100%;
+    aspect-ratio: 1/cos(30deg);
+    margin: 0 auto auto;
+    clip-path: polygon(50% -50%,100% 50%,50% 150%,0 50%);
+    background: #524656;
+    animation: l9-1 .5s linear infinite;
+  }
+  @keyframes l9-0 {
+    0%,2%   { transform: translate(0,   0%); }
+    98%,to { transform: translate(0, -0.2%); }
+  }
+  @keyframes l9-1 {
+    0%,5%   { transform: rotate(  0deg); }
+    95%,to  { transform: rotate(-60deg); }
+  }
+</style>
+
+<!-- Loader Element -->
+<div class="loader"></div>
+
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nesara Amingad</h1>
-<h3 align="center">Hi, I’m Nesara Amingad, a passionate Full-Stack Developer with a B.E. in Computer Science and Engineering from JSSSTU. My focus is on creating innovative, scalable web applications using technologies like JavaScript, React.js, Node.js, and PostgreSQL. I enjoy working on hackathon projects and collaborating with others to deliver functional and engaging solutions. I’m always exploring new technologies, and currently, I’m diving deeper into blockchain and Web3, including token contracts and NFT minting. Feel free to explore my repositories, and don’t hesitate to connect with me!</h3>
+<h3 align="center">
+  Hi, I’m Nesara Amingad, a passionate Full-Stack Developer with a B.E. in Computer Science and Engineering from JSSSTU. My focus is on creating innovative, scalable web applications using technologies like JavaScript, React.js, Node.js, and PostgreSQL. I enjoy working on hackathon projects and collaborating with others to deliver functional and engaging solutions. I’m always exploring new technologies, and currently, I’m diving deeper into blockchain and Web3, including token contracts and NFT minting. Feel free to explore my repositories, and don’t hesitate to connect with me!
+</h3>
 
-- 📫 How to reach me **nesaramingad821@gmail.com**
-
-- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1srdjkG4VIoVyDyTVdFK7sUy_dIbTmmOB/view?usp=drive_link)
-
+<!-- Contact & Links -->
+- 📫 How to reach me **nesaramingad821@gmail.com**  
+- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1srdjkG4VIoVyDyTVdFK7sUy_dIbTmmOB/view?usp=drive_link)  
 - ⚡ Quote **I am the master of my fate, I am the captain of my soul.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nesar-amingad" target="_blank">
+  <a href="https://www.linkedin.com/in/nesar-amingad" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesar amingad" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/nesar21" target="_blank">
+  <a href="https://www.leetcode.com/nesar21" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nesar21" height="30" width="40" />
   </a>
 </p>
@@ -72,8 +121,13 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="nesar21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="nesar21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21&" alt="nesar21" /></p>
+<!-- GitHub Stats -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="nesar21" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="nesar21" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21&" alt="nesar21" />
+</p>
