@@ -84,8 +84,6 @@
 </p>
 
 
-### Animated GIF (Spider-Man Logo):
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morales.gif" alt="Spider-Man Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morles gif.gif" alt="Spider-Man Logo" width="400"/>
 </p>
