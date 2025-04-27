@@ -1,32 +1,3 @@
-<!-- Direct Spider-Man GIF embed -->
-<p align="center">
-  <img
-    src="https://media.tenor.com/WDNllJL2IOsAAAAC/across-the-spider-verse-spider-man.gif"
-    alt="Spider-Man Across The Spider-Verse"
-    width="150" />
-</p>
-
-<!-- Loader Animation CSS (note: GitHub strips <style> tags, so this won’t display) -->
-<style>
-  .loader { width:60px; aspect-ratio:.5; display:grid }
-  .loader:before {
-    content:""; width:30%; aspect-ratio:1; border-radius:50%;
-    margin:auto auto 0; background:#CF4647;
-    animation:l9-0 .5s cubic-bezier(0,800,1,800) infinite;
-  }
-  .loader:after {
-    content:""; width:100%; aspect-ratio:1/cos(30deg);
-    margin:0 auto auto; clip-path:polygon(50% -50%,100% 50%,50% 150%,0 50%);
-    background:#524656; animation:l9-1 .5s linear infinite;
-  }
-  @keyframes l9-0 {
-    0%,2% {transform:translate(0,0)} 98%,to {transform:translate(0,-0.2%)}
-  }
-  @keyframes l9-1 {
-    0%,5% {transform:rotate(0deg)} 95%,to {transform:rotate(-60deg)}
-  }
-</style>
-<div class="loader"></div>
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nesara Amingad</h1>
