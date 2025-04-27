@@ -1,14 +1,14 @@
-<!-- Tenor GIF Embed -->
-<div class="tenor-gif-embed" data-postid="27246203" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-  <a href="https://tenor.com/view/spider-man-logo-spider-man-across-the-spider-verse-spider-symbol-different-spiders-spider-man-gif-27246203">
-    Spider Man Logo Spider Man Across The Spider Verse GIF
-  </a> from <a href="https://tenor.com/search/spider+man+logo-gifs">Spider Man Logo GIFs</a>
-</div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- Direct Spider-Man GIF embed -->
+<p align="center">
+  <img
+    src="https://media.tenor.com/WDNllJL2IOsAAAAC/across-the-spider-verse-spider-man.gif"
+    alt="Spider-Man Across The Spider-Verse"
+    width="150"
+  />
+</p>
 
-<!-- Loader Animation CSS -->
+<!-- Loader Animation (note: GitHub strips <style> so this won’t display in a README) -->
 <style>
-  /* HTML: <div class="loader"></div> */
   .loader {
     width: 60px;
     aspect-ratio: .5;
@@ -41,93 +41,94 @@
     95%,to  { transform: rotate(-60deg); }
   }
 </style>
-
-<!-- Loader Element -->
 <div class="loader"></div>
 
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nesara Amingad</h1>
 <h3 align="center">
-  Hi, I’m Nesara Amingad, a passionate Full-Stack Developer with a B.E. in Computer Science and Engineering from JSSSTU. My focus is on creating innovative, scalable web applications using technologies like JavaScript, React.js, Node.js, and PostgreSQL. I enjoy working on hackathon projects and collaborating with others to deliver functional and engaging solutions. I’m always exploring new technologies, and currently, I’m diving deeper into blockchain and Web3, including token contracts and NFT minting. Feel free to explore my repositories, and don’t hesitate to connect with me!
+  Hi, I’m Nesara Amingad, a passionate Full-Stack Developer with a B.E. in Computer Science and Engineering from JSSSTU. My focus is on creating innovative, scalable web applications using JavaScript, React.js, Node.js, and PostgreSQL. I’m always exploring new technologies like blockchain and Web3—feel free to explore my repositories and connect!
 </h3>
 
 <!-- Contact & Links -->
 - 📫 How to reach me **nesaramingad821@gmail.com**  
 - 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1srdjkG4VIoVyDyTVdFK7sUy_dIbTmmOB/view?usp=drive_link)  
-- ⚡ Quote **I am the master of my fate, I am the captain of my soul.**
+- ⚡ Quote **“I am the master of my fate, I am the captain of my soul.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nesar-amingad" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesar amingad" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/nesar21" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nesar21" height="30" width="40" />
+  <a href="https://leetcode.com/nesar21" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (these are pure <img> embeds and will show) -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="nesar21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="nesar21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21&" alt="nesar21" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21" alt="Streak" />
 </p>
