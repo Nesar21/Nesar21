@@ -7,7 +7,7 @@
 - ⚡ Quote **“I am the master of my fate, I am the captain of my soul.”**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morles gif.gif" alt="Spider-Man Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles morles gif.gif" alt="Spider-Man Logo" width="250"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -76,12 +76,12 @@
 </p>
 
 <!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nesar21&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="Stats" width="45%" />
 </p>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nesar21&show_icons=true&locale=en" alt="Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21" alt="Streak" />
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesar21" alt="Streak" />
 </p>
