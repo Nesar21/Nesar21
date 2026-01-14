@@ -4,11 +4,7 @@
 
 <!-- Contact & Links -->
 
-- 📫 How to reach me **nesaramingad821@gmail.com**  
-
-- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/1h8L1lr3GRGNTx6cpGyY5HMwbaHRN5xGh/view?usp=sharing)  
-
-- ⚡ Quote **“I am the master of my fate, I am the captain of my soul.”**
+-  How to reach me **nesaramingad821@gmail.com**  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles%20morles%20gif.gif" alt="Spider-Man Logo" width="250"/>
