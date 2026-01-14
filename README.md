@@ -4,10 +4,20 @@
   <img src="https://raw.githubusercontent.com/Nesar21/Nesar21/main/miles%20morles%20gif.gif" width="240" />
 </p>
 
+<p align="center">
+  I build software by taking systems apart and understanding where they fail.<br/>
+  Recently working on AI pipelines, backend systems, and execution reliability —<br/>
+  focusing more on correctness, failure modes, and long-term behavior than demos.
+</p>
+
+<p align="center">
+  Currently focused on backend systems and AI reliability, with hands-on work in Marathon-Agent, Web-weaver and AirVision.
+</p>
+
 ---
 
 ## Contact
-📧 **Email:** nesaramingad821@gmail.com  
+**Email:** nesaramingad821@gmail.com  
 
 ---
 
